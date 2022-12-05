@@ -19,9 +19,9 @@
 ### Back-End
 
 - [ ] Dashboard Admin
-        CRUD products
-        CRUD users
-        New and Edit Product page
+CRUD products
+CRUD users
+New and Edit Product page
 - [ ] New and Edit Product page for user create
 - [ ] Modification of the user account by the user (password, addresses)
 - [ ] Manage security access
