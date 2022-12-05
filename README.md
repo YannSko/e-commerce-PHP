@@ -2,10 +2,9 @@
  
 
 
-### ToDo
 
 
-### FrontEnd
+### ToDo FrontEnd
 - [ ] Login and Register page (With verification of email for the registration)
 - [ ] Cart page
 - [ ] Profil page
@@ -16,7 +15,7 @@
 - [ ] Design + ergonomics
 - [ ] MarketPlace
 
-### Back-End
+### ToDo Back-End
 
 - [ ] Dashboard Admin
 CRUD products
