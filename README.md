@@ -1,5 +1,29 @@
 # e-commerce-PHP
 
+Table of Contente 
+1. [Prérequis](#Prerequis)
+2. [Installation](#Installation)
+3. [Commencer le projet](#Commencer-le-projet )
+
+
+
+## Prérequis 
+
+Xamp Control Panel
+
+Visual studio Code
+
+## Installation
+
+Installation de Xamp : 
+
+Installer la dernière version de xamp ici https://www.apachefriends.org/fr/download.html
+
+Tout Cocher quand ils demanderont quelle extensions installer 
+
+Bien joué c'est terminé
+
+## Commencer le projet 
 
 Mettre les fichiers .php dans un dossier php 
 puis mettre le dossier dans
