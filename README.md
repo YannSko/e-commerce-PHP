@@ -36,7 +36,7 @@ path : C:\xampp\htdocs\css
 
 
 
-Pour tester si tout marche :
+
 
 Lancer Xampp Control Panel 
 Appuyer sur start à coté de Apache et de Mysql
@@ -57,6 +57,8 @@ trouver le fichier Db.sql sur votre ordinateur et importé le
 
 Une nouvelle bdd nommé ecom est censé être apparu à gauche , si vous cliquer sur le petit vous êtes censé voir toute ses tables.
 
+
+### Pour tester si tout marche : 
 
 Lancé votre navigateur internet et écrire
 
