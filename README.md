@@ -41,6 +41,23 @@ Pour tester si tout marche :
 Lancer Xampp Control Panel 
 Appuyer sur start à coté de Apache et de Mysql
 
+Cliquez maintenant sur admin pour MySql
+
+Vous devriez arriver sur une page internet phpmyadmin
+
+Cliquez sur nouvelle base de données ( à gauche )
+
+Nommé là ecom et crée là
+
+Cliquez ensuite sur ecom puis importé 
+
+Faites "Parcourir" dans fichier à importé
+
+trouver le fichier Db.sql sur votre ordinateur et importé le  
+
+Une nouvelle bdd nommé ecom est censé être apparu à gauche , si vous cliquer sur le petit vous êtes censé voir toute ses tables.
+
+
 Lancé votre navigateur internet et écrire
 
 http://localhost/php/index.php
