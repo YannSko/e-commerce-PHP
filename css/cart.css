@@ -1,0 +1,24 @@
+header {
+    left: 0;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    background-color: black;
+}
+h1 {
+text-align: center;
+}
+footer {
+left: 0;
+background-color: black;
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+body {
+width: auto;
+background-color: #cccccc;
+height: auto;
+overflow: scroll;
+}
