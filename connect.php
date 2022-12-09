@@ -16,4 +16,9 @@
         $conn->close();
     }
 */
+if (!$conn) {
+
+    echo "Connection failed!";
+
+}
     ?>

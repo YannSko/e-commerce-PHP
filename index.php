@@ -1,8 +1,8 @@
 <?php
     include 'connect.php';
-    $conn = OpenCon();
+    #$conn = OpenCon();
     echo "Connected Successfully";
-    CloseCon($conn);
+    #CloseCon($conn);
 
 ?>
 
