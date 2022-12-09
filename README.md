@@ -8,7 +8,7 @@ C:\xampp\htdocs\ ( par défaut )
 
 Mettre les fichiers css dans un dossier nommé "css" dans htdocs 
 
-C:\xampp\htdocs\css
+path : C:\xampp\htdocs\css
 
 
 
